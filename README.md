@@ -99,6 +99,15 @@ The `data/` folder is tracked using DVC, and datasets are stored remotely in clo
 dvc pull
 ```
 
+![image](https://github.com/user-attachments/assets/16e7eb5f-e3be-4e6c-87b8-bc096956ccd0)
+![image](https://github.com/user-attachments/assets/00d2a9e2-81fd-487b-af20-ebf963a196a4)
+![image](https://github.com/user-attachments/assets/33b17d89-0375-4bed-b1eb-ee21380f6392)
+![image](https://github.com/user-attachments/assets/73a3790d-f298-4519-88d3-2b5bf5904f16)
+![image](https://github.com/user-attachments/assets/8e9382e8-96ef-4431-8349-e6e5e0e1f8b0)
+![image](https://github.com/user-attachments/assets/3ede5f6b-3e61-45e7-a176-2bba83efc052)
+
+
+
 ## Contact Information
 If you have any questions or feedback about this project, feel free to contact:
 - **Collaborators**: Kartik Aggarwal,Arjun Khadikar, Mohammad Ayan, Aryan Patel
