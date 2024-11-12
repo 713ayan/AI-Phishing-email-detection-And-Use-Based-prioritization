@@ -1,4 +1,4 @@
-# AI Phishing Email Detection and Prioritization using Machine Learning
+# AI Phishing Email Detection and Use Based Prioritization 
 
 This repository focuses on building a machine learning model for phishing email detection and prioritization. The project leverages Natural Language Processing (NLP) techniques and machine learning algorithms to accurately detect phishing emails and rank them by importance, ensuring safe and effective email management. 
 
