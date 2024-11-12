@@ -110,4 +110,4 @@ dvc pull
 
 ## Contact Information
 If you have any questions or feedback about this project, feel free to contact:
-- **Collaborators**: Kartik Aggarwal,Arjun Khadikar, Mohammad Ayan, Aryan Patel
+- **Collaborators**: Kartik Aggarwa, Arjun Khadikar, Mohammad Ayan, Aryan Patel 
